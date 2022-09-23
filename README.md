@@ -1,0 +1,1 @@
+# RTAB_MAP_scout
